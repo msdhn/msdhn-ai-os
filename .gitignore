@@ -13,3 +13,4 @@ brainstorms/
 apps/3d-brain/brain.config.json
 apps/3d-brain/data/
 apps/3d-brain/node_modules/
+.idea
