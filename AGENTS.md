@@ -28,6 +28,7 @@ Read `references/3ms-framework.md` once. It's how Masud thinks about AI work. Mi
 - `brainstorms/` - Dated interview captures and resume points. Read relevant captures on demand; confirmed current context belongs in its canonical page.
 - `audits/` — dated audit reports and finding history; point-in-time evidence, not live business state
 - `archives/` — old stuff. Don't delete. Move here.
+- `apps/3d-brain/` — local 3D knowledge globe of selected AIOS sources ("Masud's Second Brain"). Run `node serve.mjs` from that folder, open the printed localhost link. Config in `brain.config.json` (gitignored). Built by `/3d-brain`.
 
 See `EXPANSIONS.md` for what to add as you grow.
 

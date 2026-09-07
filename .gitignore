@@ -7,3 +7,9 @@ node_modules/
 .claude/settings.local.json
 audits/
 brainstorms/
+
+# 3D Brain local scratch
+.3d-brain/
+apps/3d-brain/brain.config.json
+apps/3d-brain/data/
+apps/3d-brain/node_modules/
